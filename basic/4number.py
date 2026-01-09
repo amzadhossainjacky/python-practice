@@ -8,7 +8,7 @@ print(f"value: {a},  a is of type:", type(a))
 b = 10.5
 print(f"value: {b}, b is of type:", type(b))
 
-#exaple of complex number
+#example of complex number
 c = 2 +3j
 print(f"value: {c}, c is of type:", type(c))
 
